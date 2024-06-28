@@ -1,0 +1,4 @@
+cl-ppcre, ghcr.io/ocicl/cl-ppcre@sha256:584907e0683621973579f397115945ef73e9d5b7afa77fae7cacecb3ad272f89, cl-ppcre-20240503-80fb19d/cl-ppcre.asd
+cl-ppcre-unicode, ghcr.io/ocicl/cl-ppcre@sha256:584907e0683621973579f397115945ef73e9d5b7afa77fae7cacecb3ad272f89, cl-ppcre-20240503-80fb19d/cl-ppcre-unicode.asd
+unix-opts, ghcr.io/ocicl/unix-opts@sha256:21fadcd8f80f1b344dfd90892ae36888ff50f8b778ae37c1b1f0bc4a9f0ea5e2, unix-opts-0.1.7/unix-opts.asd
+unix-opts-tests, ghcr.io/ocicl/unix-opts@sha256:21fadcd8f80f1b344dfd90892ae36888ff50f8b778ae37c1b1f0bc4a9f0ea5e2, unix-opts-0.1.7/unix-opts-tests.asd

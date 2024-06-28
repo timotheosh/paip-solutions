@@ -1,0 +1,3 @@
+asdf-package-system, ghcr.io/ocicl/asdf-package-system@sha256:dfacc260786f4e9e2aa13a797a7b326b58e08ea5db778421a9985b9c67362df1, asdf-package-system-20240503-61776f2/asdf-package-system.asd
+agnostic-lizard, ghcr.io/ocicl/agnostic-lizard@sha256:ba53fa8902631ec0f06f04d0e0ee609a1d01080390bd7d6f133620c26e7961b1, agnostic-lizard-20240503-fe1a1d7/agnostic-lizard.asd
+agnostic-lizard-debugger-prototype, ghcr.io/ocicl/agnostic-lizard@sha256:ba53fa8902631ec0f06f04d0e0ee609a1d01080390bd7d6f133620c26e7961b1, agnostic-lizard-20240503-fe1a1d7/agnostic-lizard-debugger-prototype.asd

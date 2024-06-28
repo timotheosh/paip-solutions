@@ -6,7 +6,8 @@
                "unix-opts")
   :components ((:module "src"
                 :components
-                ((:file "main"))))
+                ((:file "main")
+                 (:file "chapter01"))))
   :description "Solutions of exercises in Paradigms of Artificial Intelligence"
   :build-operation "asdf:program-op"
   :build-pathname "target/paip-solutions"
