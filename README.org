@@ -1,3 +1,16 @@
+* paip-solutions  - description
+Solutions for Peter Norvig's Paradigms of Artificial Intelligence
+
+** Usage
+
+** Installation
+
+** Author
+
++ Tim Hawes <trhawes@gmail.com>
+
+** License
+
 MIT License
 
 Copyright (c) 2024, Tim Hawes
